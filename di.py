@@ -9,7 +9,7 @@ import os
 # SETTINGS
 # ============================================================
 
-CHESSBOARD = (6, 8)
+CHESSBOARD = (7, 9)
 SQUARE_SIZE = 0.020
 
 CALIBRATION_FILE = "calibration_data/calibration.npz"
